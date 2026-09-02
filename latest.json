@@ -1,5 +1,5 @@
 {
-  "version": "1.7.4",
-  "notes": "v1.7.4\n- 独白默认收起，点击展开；新增回到底部按钮\nv1.7.3\n- 思考过程实时动效展示\nv1.7.2\n- 存档导出为 .md 文件；独白更名「ta的独白」",
+  "version": "1.7.5",
+  "notes": "v1.7.5\n- 更新体验升级：点击「立即更新」应用内下载并直接安装\nv1.7.4\n- 独白默认收起，点击展开；新增回到底部按钮\nv1.7.3\n- 思考过程实时动效展示\nv1.7.2\n- 存档导出为 .md 文件；独白更名「ta的独白」",
   "apk_url": "https://raw.githubusercontent.com/chemmy-11/moonveil-updates/master/AI-GF.apk"
 }
