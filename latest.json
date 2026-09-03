@@ -1,5 +1,5 @@
 {
-  "version": "0.1.9",
-  "notes": "v0.1.9\n- 自定义主题改无色磨砂质感：气泡/输入框/卡片半透毛玻璃，不与壁纸冲突\nv0.1.8\n- 修复：自定义壁纸点「选择图片」后弹窗被误关\nv0.1.7\n- 取景框双端无法显示图片（渲染重写）\n⚠ 旧版本请用「复制链接」手动下载安装一次（装过 0.1.4+ 可正常在线更新）",
-  "apk_url": "https://raw.githubusercontent.com/chemmy-11/moonveil-updates/master/AI-GF.apk"
+ "version": "0.2.2",
+ "notes": "v0.2.2\n- 聊天支持发图片：她能看到你发的图并回应（点图可放大）\n- 联网搜索：设置 Tavily Key 后可开启，先查资料再回答\n- 创建角色素材升级：附件按 Markdown 章节整理，新增写作模板\n⚠ 旧版本请用「复制链接」手动下载安装一次（装过 0.1.4+ 可正常在线更新）",
+ "apk_url": "https://raw.githubusercontent.com/chemmy-11/moonveil-updates/master/AI-GF.apk"
 }
