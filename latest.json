@@ -1,5 +1,5 @@
 {
- "version": "0.2.5",
- "notes": "v0.2.5\n- 界面切换更流畅：长对话秒切不卡顿，上翻自动加载更早聊天记录\n- 切换会话时有优雅的过渡动画，不再是白屏\nv0.2.4\n- 输入框新增「+」键：发图片、联网搜索聚合入口\n- 修复：发版后检查更新可能误报「已是最新」",
- "apk_url": "https://raw.githubusercontent.com/chemmy-11/moonveil-updates/master/AI-GF-0.2.5.apk"
+ "version": "0.2.6",
+ "notes": "v0.2.6\n- 女友个人页全新改版：全屏个人主页，信息直铺更像资料页\n- 新增统计条：回忆数 · 喜好数 · 相伴天数\n- 回忆超 5 条/喜好超 10 条自动折叠，可展开\n- 输入区改版：发送键图标化，图片/搜索收进「+」菜单\n⚠ 若提示已是最新，请用「复制链接」手动下载一次",
+ "apk_url": "https://raw.githubusercontent.com/chemmy-11/moonveil-updates/master/AI-GF-0.2.6.apk"
 }
