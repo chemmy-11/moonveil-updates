@@ -1,5 +1,5 @@
 {
- "version": "0.2.13",
- "notes": "v0.2.13\n- 修复：切换聊天后停留在旧消息位置的问题，现在直接到最新\n- 新增免费联网搜索：点「+」开启即可用，无需任何 Key\n- 角色接入 MBTI 人格维度，主页可见\n⚠ 若提示已是最新，请用「复制链接」手动下载一次",
- "apk_url": "https://raw.githubusercontent.com/chemmy-11/moonveil-updates/master/AI-GF-0.2.13.apk"
+ "version": "0.3.0",
+ "notes": "v0.3.0\n- 角色专属视觉包：晚晚、唐苓全新立绘、头像与聊天背景\n- 主页与聊天页均已接入新视觉\n⚠ 若提示已是最新，请用「复制链接」手动下载一次",
+ "apk_url": "https://raw.githubusercontent.com/chemmy-11/moonveil-updates/master/AI-GF-0.3.0.apk"
 }
