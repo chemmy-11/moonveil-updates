@@ -1,5 +1,5 @@
 {
- "version": "0.2.11",
- "notes": "v0.2.11\n- 顶栏对调：她的头像在右上，功能/主题键在左上\n- 切换聊天不再自动弹起键盘，切换加了丝滑过渡动画\n- 按钮点击反馈更细腻，去掉系统蓝色高亮\n- 纯白/纯黑主题下自己的气泡和发送键改为中性灰\n⚠ 若提示已是最新，请用「复制链接」手动下载一次",
- "apk_url": "https://raw.githubusercontent.com/chemmy-11/moonveil-updates/master/AI-GF-0.2.11.apk"
+ "version": "0.2.12",
+ "notes": "v0.2.12（重要修复）\n- 修复：聊天发送消息失败的问题（0.2.10/0.2.11 受影响，请务必更新）\n- 切换聊天更流畅：不再卡顿，瞬时到最新消息\n- 历史记录只加载最近 50 条，上滑可加载更早\n⚠ 若提示已是最新，请用「复制链接」手动下载一次",
+ "apk_url": "https://raw.githubusercontent.com/chemmy-11/moonveil-updates/master/AI-GF-0.2.12.apk"
 }
